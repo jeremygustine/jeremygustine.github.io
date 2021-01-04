@@ -50,7 +50,13 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 **Children’s Privacy**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+We understand the importance of protecting the privacy and safety of children using our services, as outlined by the Children’s Online Privacy Protection Act of 1998 (COPPA). Accordingly, we do not knowingly collect, use, or disclose personal information from children under 13.
+
+When we determine that a service is directed and children under the age of 13, we will configure all of our internal systems such that no personal information will be collected, and configure all relevant third-party integrations appropriately such that no personal information will be collected for users of that service. For additional information, please refer to the privacy policies of our third party operators to understand what they are doing to further protect your child’s privacy.
+
+Services that are determined to be targeted at children will still receive advertisements from our third-party operators, and promotions from Noodlecake using its internal systems. In this case the ads and promotions will not be targeted based on collected data, but will be broadcast to all users of the service.
+
+If you are a parent of a child under 13 years of age and you believe your child has provided us with personal information, please contact us using the information below and we will delete the information from our systems.
 
 **Changes to This Privacy Policy**
 
